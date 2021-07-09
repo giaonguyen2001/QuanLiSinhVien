@@ -1,0 +1,13 @@
+sv1;Nguyen Thien Giao;true;2001-02-22;a1
+sv2;Le Quang Bao Lam;true;2001-10-10;b1
+sv3;Nguyen Minh Hoang;true;2001-03-19;b1
+sv4;Phan Chi Tai;true;2001-07-16;c1
+sv5;Phan Ba Huy;true;2001-10-20;d1
+sv6;Ngo Duc Quang;true;1999-05-26;a1
+sv7;Nguyen Thi Thanh Phuong;false;2001-08-10;d1
+sv8;Tran Thi Lan Anh;false;2001-05-17;c1
+sv9;Ho Van Ty;true;2001-02-10;f1
+sv10;Che Nguyen Quang Khanh;true;2001-09-22;e1
+sv11;Nguyen Thi Da Thao;false;2001-01-02;g1
+sv12;Nguyen Thi Hong Nhien;false;2001-11-20;h1
+sv0;Nguyen Thi Hong;false;2001-11-20;g1
